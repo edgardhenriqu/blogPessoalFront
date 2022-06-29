@@ -1,0 +1,11 @@
+#bgcor{
+    background-color: rgb(78, 148, 240) !important;
+}
+
+.fs-16{
+    font-size: 16pt;
+}
+
+a{
+    cursor: pointer;
+}
